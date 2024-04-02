@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="scan">SCAN</string>
+    <string name="text_prompt">Place a barcode in the viewfinder rectangle to scan it.</string>
+    <string name="scan_the_barcode">Scan the Barcode</string>
+    <string name="camera_prompt">Line up the barcode inside the white corners and keep your phone steady.</string>
+    <string name="scanning">Scanning</string>
+    <string name="edit_details">Edit Details</string>
+    <string name="id_number">ID Number</string>
+    <string name="name">Name</string>
+    <string name="course">Course</string>
+    <string name="scan_again">Scan Again</string>
+    <string name="submit">Submit</string>
+    <string name="violation">Violation</string>
+
+
+    <string-array name="array_name">
+        <item>Not Wearing Uniform</item>
+        <item>No ID</item>
+        <item>Vandalism</item>
+    </string-array>
+</resources>
